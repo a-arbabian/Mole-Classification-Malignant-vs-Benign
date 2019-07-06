@@ -4,7 +4,7 @@
 https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign/
 
 Sample:
-<img src="./sampledata.png">
+<img src="./sampledata.PNG">
 
 ## Neural Net Architecture
-<img src="./CNNarch.png">
+<img src="./CNNarch.PNG">
